@@ -1,4 +1,4 @@
-# f1bpm 飞流 http://f1bpm.com
+# F1bpm 飞流 http://f1bpm.com
 * 开放式的企业级BPM PaaS平台
 
 ## 特性
